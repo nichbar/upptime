@@ -4,17 +4,19 @@
     "url": "https://lucida.to",
     "icon": "https://icons.duckduckgo.com/ip3/lucida.to.ico",
     "slug": "lucida",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 895,
-    "timeDay": 895,
-    "timeWeek": 895,
-    "timeMonth": 895,
-    "timeYear": 895,
-    "dailyMinutesDown": {}
+    "time": 840,
+    "timeDay": 840,
+    "timeWeek": 840,
+    "timeMonth": 840,
+    "timeYear": 840,
+    "dailyMinutesDown": {
+      "2025-08-06": 0
+    }
   }
 ]
