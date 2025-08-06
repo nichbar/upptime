@@ -5,11 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Lucida
     url: https://www.lucida.to
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   baseUrl: /upptime
