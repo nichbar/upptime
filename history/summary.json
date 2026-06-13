@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lucida.to.ico",
     "slug": "lucida",
     "status": "down",
-    "uptime": "61.06%",
-    "uptimeDay": "99.99%",
+    "uptime": "60.97%",
+    "uptimeDay": "52.63%",
     "uptimeWeek": "14.29%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.06%",
-    "time": 839,
-    "timeDay": 279,
-    "timeWeek": 184,
+    "uptimeYear": "60.97%",
+    "time": 837,
+    "timeDay": 34,
+    "timeWeek": 183,
     "timeMonth": 71,
-    "timeYear": 839,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2025-08-06": 27,
       "2025-08-07": 89,
@@ -184,7 +184,8 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 553,
-      "2026-06-12": 0
+      "2026-06-13": 247,
+      "2026-06-12": 435
     }
   }
 ]
