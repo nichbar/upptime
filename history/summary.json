@@ -4,17 +4,17 @@
     "url": "https://lucida.to",
     "icon": "https://icons.duckduckgo.com/ip3/lucida.to.ico",
     "slug": "lucida",
-    "status": "down",
-    "uptime": "54.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "65.75%",
+    "status": "up",
+    "uptime": "54.04%",
+    "uptimeDay": "87.59%",
+    "uptimeWeek": "63.98%",
     "uptimeMonth": "13.73%",
-    "uptimeYear": "54.06%",
-    "time": 755,
-    "timeDay": 337,
-    "timeWeek": 317,
-    "timeMonth": 131,
-    "timeYear": 755,
+    "uptimeYear": "54.04%",
+    "time": 754,
+    "timeDay": 385,
+    "timeWeek": 331,
+    "timeMonth": 140,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-08-06": 27,
       "2025-08-07": 89,
@@ -230,7 +230,8 @@
       "2026-07-30": 292,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
-      "2026-07-27": 280
+      "2026-07-27": 280,
+      "2026-07-31": 179
     }
   }
 ]
